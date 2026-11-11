@@ -59,7 +59,7 @@ Understanding how data flows through your SwiftUI app is a crucial step in becom
 
 ## Issues and Discussions
 
-You've found a bug in the source code, a mistake in the documentation or maybe you'd like a new feature? Take a look at [GitHub Discussions](https://github.com/developer-academy-unina/Lab-Data-Flow/discussions) to see if it's already being discussed. You can help us by [submitting an issue on GitHub](https://github.com/developer-academy-unina/Lab-Data-Flow/issues). Before you create an issue, make sure to search the issue archive -- your issue may have already been addressed!
+You've found a bug in the source code, a mistake in the documentation or maybe you'd like a new feature? Take a look at [GitHub Discussions](https://github.com/developer-academy-unina/Workshop-Learning-basics-of-data-flow-in-SwiftUI/discussions) to see if it's already being discussed. You can help us by [submitting an issue on GitHub](https://github.com/developer-academy-unina/Workshop-Learning-basics-of-data-flow-in-SwiftUI/issues). Before you create an issue, make sure to search the issue archive -- your issue may have already been addressed!
 
 Please try to create bug reports that are:
 
@@ -74,8 +74,8 @@ Please try to create bug reports that are:
 
 Reach out to the maintainer at one of the following places:
 
-- [GitHub Discussions](https://github.com/developer-academy-unina/Lab-Data-Flow/discussions)
-- [GitHub issues](https://github.com/developer-academy-unina/Lab-Data-Flow/issues/new?assignees=&labels=question&template=04_SUPPORT_QUESTION.md&title=support%3A+)
+- [GitHub Discussions](https://github.com/developer-academy-unina/Workshop-Learning-basics-of-data-flow-in-SwiftUI/discussions)
+- [GitHub issues](https://github.com/developer-academy-unina/Workshop-Learning-basics-of-data-flow-in-SwiftUI/issues/new?assignees=&labels=question&template=04_SUPPORT_QUESTION.md&title=support%3A+)
 - Contact a Mentor for any other help
 
 <br />
