@@ -10,12 +10,12 @@
 import SwiftUI
 
 struct NewEventForm: View {
-    /// TO DO: Part 3
+    /// TO DO: Part 2
     var viewModel: EventsViewModel
     
     /// TO DO:  Part 1
     
-    /// TO DO:  Part 2
+    /// TO DO:  Part 1
 
     var body: some View {
         NavigationStack {
@@ -41,7 +41,7 @@ struct NewEventForm: View {
             .toolbar {
                 ToolbarItem(placement: .cancellationAction) {
                     Button {
-                        /// TO DO: Part 2
+                        /// TO DO: Part 1
                     } label: {
                         Label("Cancel", systemImage: "xmark")
                     }
@@ -49,8 +49,8 @@ struct NewEventForm: View {
                 
                 ToolbarItem(placement: .confirmationAction) {
                     Button {
+                        /// TO DO: Part 1
                         /// TO DO: Part 2
-                        /// TO DO: Part 3
                     } label: {
                         Label("Save", systemImage: "checkmark")
                     }

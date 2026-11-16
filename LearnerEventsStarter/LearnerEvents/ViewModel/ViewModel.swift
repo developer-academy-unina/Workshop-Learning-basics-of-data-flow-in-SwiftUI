@@ -8,7 +8,7 @@
 
 import SwiftUI
 
-/// TO DO: Part 3
+/// TO DO: Part 2
 final class EventsViewModel {
     var events: [LearnerEvent] = [
         LearnerEvent(

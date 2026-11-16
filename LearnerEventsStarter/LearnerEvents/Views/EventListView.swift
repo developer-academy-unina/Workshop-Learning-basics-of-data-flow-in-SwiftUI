@@ -10,7 +10,7 @@ import SwiftUI
 
 struct EventListView: View {
     
-    /// TO DO: Part 3
+    /// TO DO: Part 2
     var viewModel: EventsViewModel
     
     /// TO DO: Part 1
@@ -20,7 +20,6 @@ struct EventListView: View {
 
             NavigationLink(destination:
                 DetailView(event: event)
-                /// TO DO: Part 3
             ) {
 
                 VStack(alignment: .leading) {
@@ -38,7 +37,7 @@ struct EventListView: View {
         .toolbar {
             ToolbarItem {
                 Button {
-                    /// TO DO: Part 2
+                    /// TO DO: Part 1
                 } label: {
                     Label("Add event", systemImage: "plus")
                 }

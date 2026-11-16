@@ -11,14 +11,14 @@ import SwiftUI
 
 @main
 struct LearnerEvents: App {
-    /// TO DO:  Part 3
+    /// TO DO:  Part 2
     var viewModel = EventsViewModel()
     
     var body: some Scene {
         WindowGroup {
             NavigationStack {
                 EventListView(viewModel: viewModel)
-                /// TO DO:  Part 3
+                /// TO DO:  Part 2
             }
         }
     }
