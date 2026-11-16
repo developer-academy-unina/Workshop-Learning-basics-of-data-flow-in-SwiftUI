@@ -49,7 +49,7 @@ Understanding how data flows through your SwiftUI app is a crucial step in becom
 1. Clone the repo
 
    ```sh
-   git clone https://github.com/developer-academy-unina/Lab-Data-Flow
+   git clone https://github.com/developer-academy-unina/Workshop-Learning-basics-of-data-flow-in-SwiftUI.git
    ```
    **or** download the repository as a zip file
    
